@@ -1,0 +1,3 @@
+[submodule "submodule/noto-cjk"]
+	path = submodule/noto-cjk
+	url = https://github.com/notofonts/noto-cjk.git
